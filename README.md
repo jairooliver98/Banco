@@ -4,7 +4,9 @@
 
 
 ---
-# banco
-Diseñe este proyecto de SQL data analytics - Banco
-Este proyecto consiste en el diseño e implementación de una base de datos relacional robusta, orientada a gestionar las operaciones fundamentales de una entidad financiera. El enfoque principal fue garantizar la consistencia de los datos EN SQL Server Management Studio 
+
+##Resumen (Vista general)
+
+ Diseñe este proyecto de SQL data analytics (Banco):implementación de una base de datos relacional robusta, orientada a gestionar las operaciones fundamentales de una entidad financiera. El enfoque principal fue garantizar la consistencia de los datos EN SQL Server Management Studio 
+
 
